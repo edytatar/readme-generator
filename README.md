@@ -54,9 +54,9 @@ This generator removes the hassle of creating a README.md file from scratch. Thi
   &nbsp;
   ## Questions:
   If you need any further assistance, my contact information is below.
-  * Github: [af](<https://github.com/af>)
+  * Github: [edytatar](<https://github.com/edytatar>)
   
-  * Email: s@g.com
+  * Email: edytatar@gmail.com
 
   &nbsp;
 # License
