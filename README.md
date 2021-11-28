@@ -8,7 +8,7 @@ It is very important to have a high-quality, professional README for every proje
 
 This is a command-line application that runs with Node.js. This dynamically creates a REAME.md file based on user input using the [Inquirer package](https://www.npmjs.com/package/inquirer). 
  
-This generator removes the hassle of creating a README.md file from scratch. This way, a user can devote more time on their project. Checkout the [`ExampleREADME.md`](https://github.com/) file to see an example. 
+This generator removes the hassle of creating a README.md file from scratch. This way, a user can devote more time on their project. Checkout the [`ExampleREADME.md`](https://github.com/edytatar/readme-generator/blob/main/EXAMPLE-README.md) file to see an example. 
 
   &nbsp;
   # Table of Contents:
@@ -31,7 +31,7 @@ This generator removes the hassle of creating a README.md file from scratch. Thi
   &nbsp;
   ## Usage:
   After following the above instructions for installation, the application will prompt the user with questions using the `Inquirer` package. 
-  
+
   This application takes your responses and inputs them into a markdown file that includes the sections: table of contents, installation, usage, tests, and questions.
   
   If a user chooses a license, a badge will dynamically be rendered under the title, license will be added to the table of contents, and a license section will be created. 
@@ -40,7 +40,7 @@ This generator removes the hassle of creating a README.md file from scratch. Thi
 
   To see a video of the application, please visit [`here`](https://drive.google.com/file/d/1X9IApOvkkHDtw0Aw3iXYGz5aVogfwsyu/view?usp=sharing).
   
-  Please visit the [`ExampleREADME.md`](https://github.com/edytatar/readme-generator) file to see an example. 
+  Please visit the [`ExampleREADME.md`](https://github.com/edytatar/readme-generator/blob/main/EXAMPLE-README.md) file to see an example. 
 
 
   &nbsp;
