@@ -1,6 +1,3 @@
-// Creating an array of links to reference
-const arrLicenseLinks = [];
-
 // Function that returns a license badge based on which license is passed in
 // If there is no license, returns an empty string
 function renderLicenseBadge(license) {
@@ -47,7 +44,7 @@ function renderLicenseSectionTitle(license) {
     if (license === "No License") {
         return "";
     } else {
-        return `# License`; 
+        return `## License`; 
     }
 
 }
