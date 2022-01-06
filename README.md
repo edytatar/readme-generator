@@ -14,8 +14,6 @@ This generator removes the hassle of creating a README.md file from scratch. Thi
   # Table of Contents:
   * [Installation](#installation)
   * [Usage](#usage)
-  * [Contributing](#contributing)
-  * [Tests](#tests)
   * [Questions](#questions)
   * [License](#license)
   
@@ -42,14 +40,6 @@ This generator removes the hassle of creating a README.md file from scratch. Thi
   
   Please visit the [`ExampleREADME.md`](https://github.com/edytatar/readme-generator/blob/main/EXAMPLE-README.md) file to see an example. 
 
-
-  &nbsp;
-  ## Contributing:
-  Please feel free to contribute. 
-
-  &nbsp;
-  ## Tests:
-  Tests are a necessary component of an application. Stay tuned for Dynamic README Generator 2.0. 
 
   &nbsp;
   ## Questions:
